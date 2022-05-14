@@ -1,2 +1,2 @@
 # Testing-Open-Source
-Learning how to contribute to Open Source
+My first ever Open Source Contribution
